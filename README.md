@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/niranjan1795/DSA_/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/niranjan1795/DSA_/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/niranjan1795/DSA_/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/niranjan1795/DSA_/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niranjan1795/DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niranjan1795/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niranjan1795/DSA_/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niranjan1795/DSA_/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/niranjan1795/DSA_/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
