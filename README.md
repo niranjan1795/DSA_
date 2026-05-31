@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/niranjan1795/DSA_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/niranjan1795/DSA_/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/niranjan1795/DSA_/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/niranjan1795/DSA_/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/niranjan1795/DSA_/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/niranjan1795/DSA_/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niranjan1795/DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/niranjan1795/DSA_/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/niranjan1795/DSA_/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/niranjan1795/DSA_/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
