@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/niranjan1795/DSA_/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niranjan1795/DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niranjan1795/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niranjan1795/DSA_/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niranjan1795/DSA_/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/niranjan1795/DSA_/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -73,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/niranjan1795/DSA_/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
