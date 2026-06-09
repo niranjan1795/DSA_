@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/niranjan1795/DSA_/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/niranjan1795/DSA_/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niranjan1795/DSA_/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/niranjan1795/DSA_/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
+| [1859-sorting-the-sentence](https://github.com/niranjan1795/DSA_/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
