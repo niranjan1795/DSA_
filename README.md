@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niranjan1795/DSA_/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/niranjan1795/DSA_/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
+| [0409-longest-palindrome](https://github.com/niranjan1795/DSA_/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niranjan1795/DSA_/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niranjan1795/DSA_/tree/master/0013-roman-to-integer) |
+| [0409-longest-palindrome](https://github.com/niranjan1795/DSA_/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/niranjan1795/DSA_/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niranjan1795/DSA_/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/niranjan1795/DSA_/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
