@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/niranjan1795/DSA_/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/niranjan1795/DSA_/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/niranjan1795/DSA_/tree/master/0415-add-strings) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/niranjan1795/DSA_/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2769-find-the-maximum-achievable-number](https://github.com/niranjan1795/DSA_/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
