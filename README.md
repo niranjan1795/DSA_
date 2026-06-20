@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niranjan1795/DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niranjan1795/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/niranjan1795/DSA_/tree/master/0217-contains-duplicate) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niranjan1795/DSA_/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/niranjan1795/DSA_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/niranjan1795/DSA_/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/niranjan1795/DSA_/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/niranjan1795/DSA_/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niranjan1795/DSA_/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niranjan1795/DSA_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/niranjan1795/DSA_/tree/master/0217-contains-duplicate) |
 | [1859-sorting-the-sentence](https://github.com/niranjan1795/DSA_/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/niranjan1795/DSA_/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
